@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/185564932.svg)](https://zenodo.org/badge/latestdoi/185564932)
 [![astropy](http://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat)](http://www.astropy.org/)
 
 # "Zoobot" Galaxy Zoo Bayesian CNN and Active Learning - Public Release
