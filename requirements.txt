@@ -1,0 +1,23 @@
+coverage
+python-coveralls
+pytest-cov
+pytest-mock
+pytest-xdist
+codecov
+# tensorflow=1.10 No! Don't do here, will confuse EC2 AMI. If local, install manually
+tqdm
+pillow
+numpy
+pandas
+astropy
+scipy
+scikit-optimize
+matplotlib
+seaborn==0.9.0
+# note: photutils requires a c compiler. For Mac/xcode, run `xcode-select --install`
+photutils
+pymc3
+boto3
+dvc
+gitpython
+statsmodels
